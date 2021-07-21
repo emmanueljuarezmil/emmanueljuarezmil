@@ -1,4 +1,4 @@
-<img src='./Technologies.jpeg' </img>
+<img src='./Technologies.jpeg' />
 
 ### Hi there 👋
 

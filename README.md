@@ -1,3 +1,5 @@
+<img src='./Technologies.jpeg' </img>
+
 ### Hi there 👋
 
 <!--

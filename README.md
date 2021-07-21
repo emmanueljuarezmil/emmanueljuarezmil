@@ -9,10 +9,10 @@ Actualmente me encuentro insertándome en el mundo de la programación, más pre
 ---
 ## Proyectos
 <p align="center">
-<img align="center" src="./PI 1.png" width="45%" />
-<img align="center" src="./PI 2.png" width="45%" />
-<img align="center" src="./PI 3.png" width="45%" />
-<img align="center" src="./PI 4.png" width="45%" />
+<img align="center" margin="5" src="./PI 1.png" width="45%" />
+<img align="center" margin="5" src="./PI 2.png" width="45%" />
+<img align="center" margin="5" src="./PI 3.png" width="45%" />
+<img align="center" margin="5" src="./PI 4.png" width="45%" />
 </p>
 
 <p>Esta aplicación es un proyecto individual que fue creado durante mi bootcamp en <a href="https://www.soyhenry.com" target="_blank">Soy Henry</a>, siendo uno de los 2 proyectos requeridos.</p>

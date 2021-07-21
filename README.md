@@ -9,7 +9,7 @@ Actualmente me encuentro insertándome en el mundo de la programación, más pre
 ---
 ## Proyectos
 
-<img align="center" src="./PI 1.png" height="20" width="20" />
+<img align="center" src="./PI 1.png" height="20%" width="20%" />
 <img align="center" src="./PI 2.png" height="20" width="20" />
 <img align="center" src="./PI 3.png" height="20" width="20" />
 <img align="center" src="./PI 4.png" height="20" width="20" />

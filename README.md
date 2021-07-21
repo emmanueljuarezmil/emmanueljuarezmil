@@ -7,7 +7,7 @@
 Actualmente me encuentro insertándome en el mundo de la programación, más precisamente en el desarrollo web como full stack, a punto de completar un bootcamp intensivo de +700 horas. Disfruto mucho el crear soluciones, sobretodo estudiando y aplicando las poderosas herramientas que nos da la tecnología, y me apasiona el poder hacerlo a través de aplicaciones web, entre otras.
 
 ---
-##Proyectos
+## Proyectos
 <p>
 <img align="center" src="./PI 1.png" height="20" width="20" />
 <img align="center" src="./PI 2.png" height="20" width="20" />

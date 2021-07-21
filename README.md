@@ -46,6 +46,7 @@ Actualmente me encuentro insertándome en el mundo de la programación, más pre
 ## 📫 CONTACTO
 
 **Email:** emmanueljuarezmil@gmail.com
+  
 **LinkedIn:** <a href="https://www.linkedin.com/in/emmanueljuarezmil/" target="blank">https://www.linkedin.com/in/emmanueljuarezmil/</a>
 
 ---

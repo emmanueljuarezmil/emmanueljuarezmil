@@ -4,7 +4,8 @@
 
 <h1 align="center"> Hola, soy Emmanuel, un gusto! 👋 :computer: </h1>
 
-Actualmente me encuentro insertándome en el mundo de la programación, más precisamente en el desarrollo web como full stack, a punto de completar un bootcamp intensivo de +700 horas. Disfruto mucho el crear soluciones, sobretodo estudiando y aplicando las poderosas herramientas que nos da la tecnología, y me apasiona el poder hacerlo a través de aplicaciones web, entre otras.
+Soy un Desarrollador Web Full Stack, con un bootcamp intensivo recientemente completado, además de otras experiencias de forma autodidacta en este hermoso mundo. Disfruto mucho el crear soluciones, sobretodo estudiando y aplicando las poderosas herramientas que nos da la tecnología.
+Me encanta la música, andar en bicicleta, viajar, todo lo relacionado con la tecnología, e incursionar y aprender sobre nuevos ámbitos y herramientas
 
 ---
 ## Proyectos

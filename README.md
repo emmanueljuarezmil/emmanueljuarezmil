@@ -4,8 +4,9 @@
 
 <h1 align="center"> Hola, soy Emmanuel, un gusto! 👋 :computer: </h1>
 
-Soy un Desarrollador Web Full Stack, con un bootcamp intensivo recientemente completado, además de otras experiencias de forma autodidacta en este hermoso mundo. Disfruto mucho el crear soluciones, sobretodo estudiando y aplicando las poderosas herramientas que nos da la tecnología.
-Me encanta la música, andar en bicicleta, viajar, todo lo relacionado con la tecnología, e incursionar y aprender sobre nuevos ámbitos y herramientas
+Desarrollador Web Full Stack, con background en ciencias económicas. Me encanta el back-end, aunque me siento cómodo en el front-end y como full stack.
+Apasionado desde temprana edad por "las computadoras", luego estudiante de contabilidad, para al fin entrar y dedicarme al 100% en el hermoso mundo IT, que lo siento mi lugar. Disfruto mucho crear soluciones, siempre con predisposición a buscar, aprender y aplicar nuevas tecnologías y herramientas, y colaborar en equipo.
+Me encanta la música y viajar.
 
 ---
 ## Proyectos
@@ -24,24 +25,7 @@ Me encanta la música, andar en bicicleta, viajar, todo lo relacionado con la te
 
 ---
 ## 🚀 Tech / soft skills: 
-- React 
-- Redux
-- Express
-- Sequelize
-- PostgreSQL
-- Javascript
-- HTML5
-- CSS3
-- Sass
-- Less
-- Node.js
-- Javascript
-- GIT
-- Scrum
-- Creatividad
-- Trabajo en equipo
-- Autodidacta
-- Hardware, software y multimedia
+React | Redux | Express | Sequelize | PostgreSQL | Javascript | HTML5 | CSS3 | Sass | Less | Node.js | Javascript | GIT | Scrum | Creatividad | Trabajo en equipo | Autodidacta | Hardware, software y multimedia
 
 ---
 ## 📫 CONTACTO

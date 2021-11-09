@@ -25,7 +25,7 @@ Me encanta la música y viajar.
 
 ---
 ## 🚀 Tech / soft skills: 
-React | Redux | Express | Sequelize | PostgreSQL | Javascript | HTML5 | CSS3 | Sass | Less | Node.js | Javascript | GIT | Scrum | Creatividad | Trabajo en equipo | Autodidacta | Hardware, software y multimedia
+Javascript | HTML5 | CSS3 | React | Redux | Node.js | Express | Sequelize | PostgreSQL | Sass | Less | GIT | Scrum | Creatividad | Trabajo en equipo | Autodidacta | Hardware, software y multimedia
 
 ---
 ## 📫 CONTACTO

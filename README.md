@@ -4,8 +4,8 @@
 
 <h1 align="center"> Hola, soy Emmanuel, un gusto! 👋 :computer: </h1>
 
-Desarrollador Web Full Stack, con background en ciencias económicas. Me encanta el back-end, aunque me siento cómodo en el front-end y como full stack.
-Apasionado desde temprana edad por "las computadoras", luego estudiante de contabilidad, para al fin entrar y dedicarme al 100% en el hermoso mundo IT, que lo siento mi lugar. Disfruto mucho crear soluciones, siempre con predisposición a buscar, aprender y aplicar nuevas tecnologías y herramientas, y colaborar en equipo.
+Desarrollador Web Full Stack, con background en ciencias económicas. Me encanta el back-end, aunque me siento cómodo en el front-end y como full stack.  
+Apasionado desde temprana edad por "las computadoras", luego estudiante de contabilidad, para al fin entrar y dedicarme al 100% en el hermoso mundo IT, que lo siento mi lugar. Disfruto mucho crear soluciones, siempre con predisposición a buscar, aprender y aplicar nuevas tecnologías y herramientas, y colaborar en equipo.  
 Me encanta la música y viajar.
 
 ---

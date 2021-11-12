@@ -25,7 +25,7 @@ Me encanta la música y viajar.
 
 # Proyectos
 
-### Appcountriesfull
+### AppCountriesFull
 
 <p  align="center">
 <img  align="center"  src="./PI 1.png"  width="45%"  />
@@ -33,11 +33,11 @@ Me encanta la música y viajar.
 <img  align="center"  src="./PI 3.png"  width="45%"  />
 <img  align="center"  src="./PI 4.png"  width="45%"  />
 </p>
-<p>AppCountriesFull es una Aplicación Web Full Stack de un proyecto individual, realizado durante mi bootcamp en <a href="https://www.soyhenry.com" target="_blank" rel="noopener noreferrer"> Soy Henry</a>, siendo uno de los 2 proyectos requeridos.</p>
+<p>AppCountriesFull es una Aplicación Web Full Stack de un proyecto individual, con diseño responsive, realizado durante mi bootcamp en <a href="https://www.soyhenry.com" target="_blank" rel="noopener noreferrer"> Soy Henry</a>, siendo uno de los 2 proyectos requeridos.</p>
 <p>
 Las tecnologías utilizadas aqui son Express, Sequelize, PostgreSQL,
 React, Redux, y CSS puro, entre otras. Esta aplicación se sirve de la API <a href="https://restcountries.com/" target="_blank" rel="noopener noreferrer">Rest Countries</a> para obtener información sobre todos los paises del mundo, almacenarlos en una base de datos local, y luego trabajarlos y requerirlos desde la API propia.</p>
-<p><a  href="https://appcountriesfull.vercel.app/"  target="blank">Link al proyecto deployado</a> / <a  href="https://github.com/emmanueljuarezmil/PI-Countries-FT13"  target="blank">Link del repo</a></p>
+<p><a  href="https://appcountriesfull.vercel.app/"  target="blank">Link al proyecto deployado</a> / <a  href="https://github.com/emmanueljuarezmil/PI-Countries-FT13"  target="blank">Link al repo</a></p>
 
 ### E-commerce ElGramofono
 

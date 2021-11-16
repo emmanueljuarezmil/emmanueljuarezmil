@@ -19,6 +19,15 @@ Apasionado desde temprana edad por "las computadoras", luego estudiante de conta
 
 Me encanta la música y viajar.
 
+
+---
+
+# 🚀 Tech / soft skills:
+
+Javascript | HTML5 | CSS3 | React | Redux | Node.js | Express | Sequelize | SQL | PostgreSQL | Sass | Less | GIT | Scrum | Creatividad | Trabajo en equipo | Autodidacta | Hardware, software y multimedia
+
+  
+
   
 
 ---
@@ -55,15 +64,6 @@ React, Redux, y CSS puro, entre otras. Esta aplicación se sirve de la API <a hr
 <p><a  href="https://github.com/emmanueljuarezmil/PG-Henry-Ecommerce-Back"  target="blank">Link al repo del back-end</a> / <a  href="https://github.com/emmanueljuarezmil/PG-Henry-Ecommerce-Front"  target="blank">Link al repo del front-end</a></p>
 
   
-
----
-
-# 🚀 Tech / soft skills:
-
-Javascript | HTML5 | CSS3 | React | Redux | Node.js | Express | Sequelize | SQL | PostgreSQL | Sass | Less | GIT | Scrum | Creatividad | Trabajo en equipo | Autodidacta | Hardware, software y multimedia
-
-  
-
 ---
 
 # 📫 CONTACTO

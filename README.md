@@ -24,10 +24,13 @@ Me encanta la música y viajar.
 
 # 🚀 Tech / soft skills:
 
-Javascript | HTML5 | CSS3 | React | Redux | Node.js | Express | Sequelize | SQL | PostgreSQL | Sass | Less | GIT | Scrum | Creatividad | Trabajo en equipo | Autodidacta | Hardware, software y multimedia
+Javascript | HTML5 | CSS3 | React | Redux | Node.js | Express | Sequelize | SQL | PostgreSQL | Sass | Less | GIT | Scrum | Creatividad | Trabajo en equipo | Autodidacta | Hardware, software y multimedia  
 
-  
-
+<p  align="center">
+<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanueljuarezmil&show_icons=true&theme=dark&locale=en&layout=compact"  width="33%"  />
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=emmanueljuarezmil&show_icons=true&theme=dark&count_private=true"  width="33%"  />
+<img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=emmanueljuarezmil&theme=dark"  width="33%"  />
+</p>
   
 
 ---

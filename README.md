@@ -64,7 +64,7 @@ React, Redux, y CSS puro, entre otras. Esta aplicación se sirve de la API <a hr
 <p>Integra entre otras pasarela de pagos de MercadoPago, autenticación con Auth0 y validación interna de cuenta, base de datos propia con PostgreSQL, almacenamiento de imágenes en Cloudinary.</p>
 
 <p>Como usuario comprador se pueden ver de manera simple y elegante, buscar, filtrar, y adquirir productos de manera segura, añadirlos a su carrito de compras, además de dejar reviews sobre los mismos una vez comprados. Como usuario admin se pueden ver, editar, y eliminar productos, categorias, usuarios, reviews, y ordenes.</p>
-<p><a  href="https://elgramofono.vercel.app/"  target="blank">Link al proyecto deployado</a> / <a  href="https://github.com/emmanueljuarezmil/PG-Henry-Ecommerce-Back"  target="blank">Link al repo del back-end</a> / <a  href="https://github.com/emmanueljuarezmil/PG-Henry-Ecommerce-Front"  target="blank">Link al repo del front-end</a></p>
+<p><a  href="https://elgramofono.vercel.app/"  target="_blank">Link al proyecto deployado</a> / <a  href="https://github.com/emmanueljuarezmil/PG-Henry-Ecommerce-Back"  target="blank">Link al repo del back-end</a> / <a  href="https://github.com/emmanueljuarezmil/PG-Henry-Ecommerce-Front"  target="blank">Link al repo del front-end</a></p>
 
   
 ---

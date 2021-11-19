@@ -49,7 +49,7 @@ Javascript | HTML5 | CSS3 | React | Redux | Node.js | Express | Sequelize | SQL 
 <p>
 Las tecnologías utilizadas aqui son Express, Sequelize, PostgreSQL,
 React, Redux, y CSS puro, entre otras. Esta aplicación se sirve de la API <a href="https://restcountries.com/" target="_blank" rel="noopener noreferrer">Rest Countries</a> para obtener información sobre todos los paises del mundo, almacenarlos en una base de datos local, y luego trabajarlos y requerirlos desde la API propia.</p>
-<p><a  href="https://appcountriesfull.vercel.app/"  target="blank">Link al proyecto deployado</a> / <a  href="https://github.com/emmanueljuarezmil/PI-Countries-FT13"  target="blank">Link al repo</a></p>
+<p><a  href="https://appcountriesfull.vercel.app/"  target="_blank">Link al proyecto deployado</a> / <a  href="https://github.com/emmanueljuarezmil/PI-Countries-FT13"  target="_blank">Link al repo</a></p>
 
 ### E-commerce ElGramofono
 
@@ -64,7 +64,7 @@ React, Redux, y CSS puro, entre otras. Esta aplicación se sirve de la API <a hr
 <p>Integra entre otras pasarela de pagos de MercadoPago, autenticación con Auth0 y validación interna de cuenta, base de datos propia con PostgreSQL, almacenamiento de imágenes en Cloudinary.</p>
 
 <p>Como usuario comprador se pueden ver de manera simple y elegante, buscar, filtrar, y adquirir productos de manera segura, añadirlos a su carrito de compras, además de dejar reviews sobre los mismos una vez comprados. Como usuario admin se pueden ver, editar, y eliminar productos, categorias, usuarios, reviews, y ordenes.</p>
-<p>[Link al proyecto deployado](https://elgramofono.vercel.app/){:target="_blank"} / <a  href="https://github.com/emmanueljuarezmil/PG-Henry-Ecommerce-Back"  target="blank">Link al repo del back-end</a> / <a  href="https://github.com/emmanueljuarezmil/PG-Henry-Ecommerce-Front"  target="blank">Link al repo del front-end</a></p>
+<p><a href="https://elgramofono.vercel.app/" target="_blank" rel="noopener">Link al proyecto deployado</a> / <a  href="https://github.com/emmanueljuarezmil/PG-Henry-Ecommerce-Back" target="_blank">Link al repo del back-end</a> / <a  href="https://github.com/emmanueljuarezmil/PG-Henry-Ecommerce-Front"  target="_blank">Link al repo del front-end</a></p>
 
   
 ---
@@ -75,7 +75,7 @@ React, Redux, y CSS puro, entre otras. Esta aplicación se sirve de la API <a hr
 
 **Email:** emmanueljuarezmil@gmail.com
 
-**LinkedIn:**  <a  href="https://www.linkedin.com/in/emmanueljuarezmil/"  target="blank">https://www.linkedin.com/in/emmanueljuarezmil/</a>
+**LinkedIn:**  <a  href="https://www.linkedin.com/in/emmanueljuarezmil/"  target="_blank">https://www.linkedin.com/in/emmanueljuarezmil/</a>
 
   
 

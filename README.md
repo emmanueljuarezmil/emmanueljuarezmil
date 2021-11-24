@@ -13,11 +13,10 @@
 
   
 
-Desarrollador Web Full Stack, con background en ciencias económicas. Me encanta el back-end, aunque me siento cómodo en el front-end y como full stack.
-
-Apasionado desde temprana edad por "las computadoras", luego estudiante de contabilidad, para al fin entrar y dedicarme al 100% en el hermoso mundo IT, que lo siento mi lugar. Disfruto mucho crear soluciones, siempre con predisposición a buscar, aprender y aplicar nuevas tecnologías y herramientas, y colaborar en equipo.
-
-Me encanta la música y viajar.
+Desarrollador Web Full Stack, con background en ciencias económicas. Me encanta el back-end, aunque me siento cómodo en el front-end y como full stack.  
+Dispuesto a aprender nuevas tecnologías, frameworks, y metodologías de trabajo. Autodidacta y autosuficiente, orientado con compromiso y dedicación a la resolución efectiva de problemas. Si buscas a alguien resolutivo puedo serte de mucha ayuda.  
+Apasionado desde temprana edad por "las computadoras", luego estudiante de contabilidad, para al fin entrar y dedicarme al 100% en el hermoso mundo IT, que lo siento mi lugar. Disfruto mucho crear soluciones, siempre con predisposición a buscar, aprender y aplicar nuevas tecnologías y herramientas, y colaborar en equipo.  
+Me encanta la música y viajar.  
 
 
 ---
